@@ -1,4 +1,12 @@
 {
-  "bragi_health": 33,
-  "bragi_max_health": 50
+  "bragi_health": 1,
+  "bragi_max_health": 18,
+  "bragi_mana": 1,
+  "bragi_max_mana": 18,
+  "bragi_fractional_level": 1,
+  "bragi_level": 3,
+  "bragi_armour": 8,
+  "bragi_v_armour": 3,
+  "bragi_hitsize": 12,
+  "bragi_base_vulnerablesize": 18
 }
